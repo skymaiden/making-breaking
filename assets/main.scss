@@ -1,0 +1,86 @@
+---
+---
+
+@import "tale";
+
+// Theme overrides
+// ---------------
+
+.logo {
+  background: #ff6701;
+  display: block;
+  height: 100px;
+  padding: 0.5em;
+}
+
+.post h2,
+.post h3,
+.post h4 {
+  margin: 3rem 0 1rem;
+}
+
+.post img {
+  height: auto;
+  max-width: 100%;
+}
+
+.post p,
+.post li {
+  font-size: 1.2rem;
+  line-height: 2rem;
+}
+
+.post p {
+  margin-bottom: 2rem;
+}
+
+.post table {
+  margin: 2rem 0;
+  width: 100%;
+}
+.post thead {
+  font-size: 1.2rem;
+  font-style: italic;
+  text-align: left;
+}
+.post tbody tr:nth-child(odd) {
+  background: #eee;
+}
+.post tbody tr:nth-child(even) {
+  background: #f9f9f9;
+}
+.post th,
+.post td {
+  padding: 1rem;
+}
+
+.pagination .arrow {
+  font-size: 1.5rem;
+  background: #f9f9f9;
+  height: 2.5rem;
+  border-radius: 50%;
+  width: 2.5rem;
+  line-height: 2.5rem;
+}
+.pagination .arrow:hover,
+.pagination .arrow:focus {
+  background: #eee;
+  color: #000;
+  opacity: 1;
+}
+
+.series-menu {
+  border-top: 0.5px solid #e5e5e5;
+  margin-top: 3rem;
+  padding-top: 3rem;
+}
+
+.gallery {
+  display: flex;
+  flex-flow: row wrap;
+}
+.gallery > img {
+  margin: 0;
+  max-width: 33%;
+  min-width: 160px;
+}

@@ -1,0 +1,7 @@
+<ol class="series-menu">
+  {% for post in site.tags.lingerie reversed %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ol>

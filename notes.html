@@ -1,0 +1,42 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+title: "All notes"
+permalink: /notes/
+---
+
+<div class="catalogue">
+  {% for post in paginator.posts | reversed %}
+  <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
+    <div>
+      <time datetime="{{ post.date }}" class="catalogue-time"
+        >{{ post.date | date: "%B %d, %Y" }}</time
+      >
+      <h1 class="catalogue-title">{{ post.title }}</h1>
+      <div class="catalogue-line"></div>
+
+      <p>{{ post.content | strip_html | truncatewords: 30 }}</p>
+    </div>
+  </a>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+  <a
+    href="{{ paginator.previous_page_path | prepend: site.baseurl }}"
+    class="left arrow"
+    >&#8592;</a
+  >
+  {% endif %} {% if paginator.next_page %}
+  <a
+    href="{{ paginator.next_page_path | prepend: site.baseurl }}"
+    class="right arrow"
+    >&#8594;</a
+  >
+  {% endif %}
+
+  <span>{{ paginator.page }}</span>
+</div>

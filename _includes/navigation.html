@@ -1,0 +1,16 @@
+<nav class="nav">
+  <div class="nav-container">
+    <a href="{{ site.baseurl }}/">
+      <img
+        class="logo"
+        src="{{ '/assets/logo.png' | prepend: site.baseurl }}"
+        alt="{{ site.title }}"
+      />
+    </a>
+    <ul>
+      <li><a href="{{ site.baseurl }}/">All notes</a></li>
+      <li><a href="{{ '/tags' | prepend: site.baseurl }}">Tags</a></li>
+      <li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
+    </ul>
+  </div>
+</nav>

@@ -8,7 +8,7 @@ permalink: /about/
 
 Hi there, welcome to my little corner of the internet 😊
 
-I'm Hinerangi, a [kiwi](<https://en.wikipedia.org/wiki/Kiwi_(people)>) living in France, obsessed with learning and making everything I can. Currently learning to mend, sew and knit my wardrobe.
+My name is Hinerangi ([hear that](https://maoridictionary.co.nz/search?keywords=hinerangi) and read about [my ancestor](https://nzhistory.govt.nz/people/guide-sophia)). I'm a [kiwi](<https://en.wikipedia.org/wiki/Kiwi_(people)>) living in France, obsessed with learning and making everything I can. Currently learning to mend, sew and knit my wardrobe.
 
 This is some sort of public notebook for documenting stuff I'm learning – because I'll probably forget things if I don't write them down, and maybe someone else might find the information interesting.
 

@@ -11,7 +11,7 @@ The Maya bra is a supportive full-band underwire bra, with a 3-piece cup and a T
 
 You can download the PDF pattern directly from the [AFI Atelier website](https://afiatelier.com/allpatterns/maya-bra/), and you can choose from EU, UK, or US sizing systems.
 
-<img src="/assets/images/maya-bra-pattern.jpg" alt="Screenshot of the Maya bra sewing pattern">
+<img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1613857830/maya-bra-pattern_hdgckc.jpg" alt="Screenshot of the Maya bra sewing pattern">
 <small><em>1. upper cup; 2. lower side cup; 3. lower front cup; 4. cradle; 5. back band</em></small>
 
 This pattern has 8mm seam allowances, and provides two versions of the cradle and band pieces, to fit either a 2x3 or 3x3 hook & eye closure. There are also pattern pieces for foam cups if you want to make a foam bra later on.
@@ -60,7 +60,7 @@ Most of these specialist shops sell kits, which come with everything you need fo
 
 You’ll probably need to make 2 or more bras to achieve a good fit, so you may want to order enough supplies to make a second bra. Depending on your size, you might be able to cut 2 or 3 bras from the above yardage, and just need to add extra elastics and hardware.
 
-<img src="/assets/images/bra-making-kit.jpg" alt="" style="max-height: 400px">
+<img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1613857830/bra-making-kit_xtfqas.jpg" alt="A bra making kit purchased from B.Wear" width="500">
 <small><em>1. Duoplex; 2. Power net; 3. strap elastic; 4. underarm picot elastic; 5. channeling; 6. band picot elastic; 7. hook & eye closure; 8. rings and sliders</em></small>
 
 {% include nav-mayabra.html %}

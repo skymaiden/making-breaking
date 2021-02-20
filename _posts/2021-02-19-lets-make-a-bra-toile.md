@@ -30,7 +30,7 @@ Examples of minor adjustments:
 
 I found these Cloth Habit articles about [band adjustments](https://clothhabit.com/bra-making-band-adjustment/) and [cup adjustments](https://clothhabit.com/bra-making-sew-along-cup-adjustments/) very helpful. This Liz Sews video about [how she fit a pattern](https://www.youtube.com/watch?v=Sdv_sdo1h1o) to herself is where I realised that bra patterns can be graded just like any other sewing pattern!
 
-![](https://instagram.fcdg3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/143729191_480968133292011_734106307805497715_n.jpg?_nc_ht=instagram.fcdg3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=eBuuGdNB5SMAX94CEiK&tp=1&oh=210bf781de5525eca63c579f801d6398&oe=6058FDD0)
+![](https://res.cloudinary.com/duckgoesoink/image/upload/v1613858385/maya-bra-toile-muslin_dc6cjg.jpg)
 <small><em>The above photo shows my final toile with elastics, a dart in the bridge and upper cup, and my graded cup pieces.</em></small>
 
 {% include nav-mayabra.html %}

@@ -16,6 +16,6 @@ With any bra pattern, the first version you sew likely won’t fit perfectly (or
 
 I'm a beginner sewist myself – I started sewing in October 2020 and made my first bra one month ago. It turns out lingerie sewing can be addictive, so I've already made 5 well-fitting bras with this pattern in that short time! Making my own lingerie has allowed me to better understand my needs, feel better about my body, and create a small collection of beautiful bras.
 
-<img src="/assets/images/maya-bras.jpg" alt="A collection of red Maya bras" width="400" />
+<img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1613857831/maya-bras_gdftmc.jpg" alt="A collection of red Maya bras" width="400" />
 
 {% include nav-mayabra.html %}

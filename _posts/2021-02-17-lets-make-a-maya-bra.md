@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let’s make a bra!"
+title: "Let’s make a bra: introduction"
 category: Sewing
 tags: lingerie
 ---

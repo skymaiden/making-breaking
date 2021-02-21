@@ -24,14 +24,16 @@ Bra sizing is confusing and differs a lot depending on which system is used. If 
 If your size isn’t listed, you can try downloading a [sister size](https://emeralderin.com/2019/08/how-to-sister-size-your-bra-pattern.html), or the closest available size and make adjustments.
 
 If you don’t (yet) have a well-fitting bra, you can use [the AFI Atelier size calculator](https://afiatelier.com/patterns/bra-size-calculator/) that is linked on the pattern page – it doesn’t work well for all bodies though (it said I was outside the measurement range covered). <br>
-If you don't get results with the calculator, you can measure yourself using any of the UK, US or EU sizing systems. I used [this bra size calculator](https://bosombesties.com/pages/online-fitting) with some degree of success – it takes breast shape into account which I found helpful. I got a similar result with [this calculator](https://www.abrathatfits.org/calculator.php), which takes standing, leaning and lying bust measurements. <br>
-Print the given size and maybe one or two above/below, then cut off seam allowances and tape the pieces together to see which one looks like the best starting point for you.
-
-Nearly everyone needs to make fitting adjustments after sewing their first bra. The Maya bra pattern was drafted for a round morphology, so you might need to grade between two sizes (yes, you can grade bra patterns like you would any other sewing pattern!). In my case, I needed a 32D for the wireline/lower part, grading the cups to a 32B above the apex for my volume and shape.
+If you don't get results with the AFI calculator, you can measure yourself using any of the UK, US or EU sizing systems. I used [this fitting calculator](https://bosombesties.com/pages/online-fitting) with some degree of success – it takes breast shape into account which I found helpful. I got a similar result with [another calculator](https://www.abrathatfits.org/calculator.php), which takes standing, leaning and lying bust measurements. <br>
+Print the given size and maybe one or two above/below, then make a quick assessment of fit: cut off seam allowances on the cradle and cup pieces, tape the cup pieces together, and to see which one looks like the best starting point.
 
 ### Which wire size?
 
 Each pattern size has a recommended wire size that goes with it – you can see this information on [the size calculator](https://afiatelier.com/patterns/bra-size-calculator/) page.
+
+The wire size is super important – wires shouldn't dig in or slide around, but fit comfortably around the breast tissue. The perfect wire shouldn't even really be felt much at all.
+
+The best cup and cradle for you might not be from the same size – in my case, I needed a 32D for the wireline/lower part, grading the cups to a 32B above the apex for my volume and shape. Experimenting with scrap toiles on this saved me money!
 
 ## Buy fabric and notions
 

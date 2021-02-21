@@ -23,6 +23,9 @@ Examples of major adjustments:
 - If the cups are way too big or small: go up a cup size and try again.
 - If the cup shape doesn't match your natural shape: you might need to grade between two sizes.
 
+<img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1613898740/maya-bra-grading_tlvk0u.jpg" alt="" />
+<small><em>The photo above shows bra cup pattern pieces graded between a larger wire size and a smaller size above the apex.</em></small>
+
 Examples of minor adjustments:
 
 - If some areas are too big or loose: pinch out the excess and adjust the pattern to match.

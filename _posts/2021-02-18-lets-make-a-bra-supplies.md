@@ -25,7 +25,7 @@ If your size isn’t listed, you can try downloading a [sister size](https://eme
 
 If you don’t (yet) have a well-fitting bra, you can use [the AFI Atelier size calculator](https://afiatelier.com/patterns/bra-size-calculator/) that is linked on the pattern page – it doesn’t work well for all bodies though (it said I was outside the measurement range covered). <br>
 If you don't get results with the AFI calculator, you can measure yourself using any of the UK, US or EU sizing systems. I used [this fitting calculator](https://bosombesties.com/pages/online-fitting) with some degree of success – it takes breast shape into account which I found helpful. I got a similar result with [another calculator](https://www.abrathatfits.org/calculator.php), which takes standing, leaning and lying bust measurements. <br>
-Print the given size and maybe one or two above/below, then make a quick assessment of fit: cut off seam allowances on the cradle and cup pieces, tape the cup pieces together, and to see which one looks like the best starting point.
+Print the given size and maybe one or two above/below, then make a quick assessment of fit: cut off seam allowances on the cradle and cup pieces, tape the cup pieces together, and hold them up to your body in front of a mirror to see which ones look like the best starting point.
 
 ### Which wire size?
 

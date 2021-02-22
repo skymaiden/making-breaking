@@ -16,7 +16,7 @@ Let's get into the nitty gritty!
 5. [Attach the cups to the band](#step-5-attach-the-cups-to-the-band)
 6. [Apply elastics and hardware](#step-6-apply-elastics-and-hardware)
 
-<em><strong>Note:</strong> more photos coming soon! My scissors are jammed so I'm waiting for a rotary cutter to arrive...</em> 😆
+<em><strong>Note:</strong> ignore the choppy fabric edges in the photos below, my fabric shears got jammed so I cut everything out with my paper scissors...</em> 😆
 
 <br>
 
@@ -24,7 +24,7 @@ Let's get into the nitty gritty!
 
 ### Closure
 
-Check that the hook & eye closure fits between the sewing lines. If it doesn't, draw a new line from the narrow band edge to the wider edge so that it does fit.
+Check that the hook & eye closure fits between the sewing lines. If it doesn't, draw a new line from the narrow band edge to the wider edge to make it fit.
 
 ### Elastic
 
@@ -34,13 +34,14 @@ We need to make sure our elastic fits along the top and bottom edges (otherwise 
 - For 12mm bottom elastic, extend the seam allowance by 4mm along the bottom of the back band and cradle.
 
 ![](https://res.cloudinary.com/duckgoesoink/image/upload/v1613917570/179BA442-FE28-49ED-AD53-F0B3530F7908_ddnl40.jpg)
-<small><em>Back band, cradle, and upper cup seam allowances increased to match elastic size</em></small>
+<small><em>Closure laid on pattern to verify it fits. Seam allowances increased to match elastic sizes on back band, cradle, and upper cup angled edge.</em></small>
 
 ## Step 2: Cut the fabric
 
-Fold the fabric, line up the DOGS correctly, and cut out the pattern pieces (both layers at the same time). We need to cut mirrored to get pieces for the left and right sides.<br>
+Fold the fabric, line up the DOGS correctly, and cut out the pattern pieces (both layers at the same time). We cut mirrored to get pieces for the left and right sides.<br>
 
 <img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1613921697/IMG_1229_buxd86.jpg" alt="" width="500" />
+<small><em>We really don't need that much fabric, and playing tetris with pattern pieces means less waste! Just keep the DOGS correct.</em></small>
 
 ### Main fabric
 
@@ -49,7 +50,7 @@ Fold the fabric, line up the DOGS correctly, and cut out the pattern pieces (bot
 - 2 x lower front cup pieces (mirrored)
 - 1 x cradle pieces (with bridge edge along the fold)
 
-### Lining
+### Lining fabric
 
 - 2 x upper cup pieces (mirrored)
 - 2 x lower side cup pieces (mirrored)
@@ -64,8 +65,12 @@ Fold the fabric, line up the DOGS correctly, and cut out the pattern pieces (bot
 <em>Note: If your fabric isn't wide enough to place the cradle on the fold with the DOGS going the right way, you can chop it in two and add a seam allowance:</em>
 
 <img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1613917590/964A4834-EE9A-472F-ACD7-6F7564499673_fvpi0n.jpg" alt="" width="500">
+<small><em>These pieces are arranged like this just for illustration – before cutting them, I turned the cradle piece upside down and moved it up into that empty space, to make better use of fabric.</em></small>
 
 Transfer notches with a washable marker, and lay out the pieces so it's easier to see what's what.
+
+![](https://res.cloudinary.com/duckgoesoink/image/upload/v1613989555/maya-bra-pattern-pieces_kfwv1x.jpg)
+<small><em>Main and lining fabric pieces laid out together. I have a separate bridge piece here, to make use of some leftover fabric.</em></small>
 
 ## Step 3: Sew the cups
 
@@ -76,7 +81,10 @@ We'll enclose all the seams to make everything as pretty on the inside as it is 
 1. Lay all the cup pieces for one side together in this order: main lower side cup (facing up), main lower front cup (facing down), lining lower front cup, lining lower side cup. You should have a sandwich of main/main/lining/lining. Pin at the apex notch.
 2. With a straight stitch, sew the pieces together carefully, easing curves where necessary.
 3. Open the cup so that the main fabric is on the outside, and the lining on the inside. The seams should all be cleanly tucked away underneath.
-4. Press and top stitch. Repeat for the other cup.
+4. Press on very low heat, and top stitch. Repeat for the other cup.
+
+<img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1613993581/maya-bra-lower-cup-enclosed-seams_1_xdbgsn.jpg" alt="" width="500" />
+<small><em>The above steps might seem unintuitive, but they result in no exposed seams on the inside or outside!</em></small>
 
 ### Attach the upper cup to the lower cup
 
@@ -85,16 +93,37 @@ We'll enclose all the seams to make everything as pretty on the inside as it is 
    Pin with the upper cup notch aligned to the lower cup seam line.
 2. Turn the pieces over, and pin the lining upper cup piece to the top of the other side of the lower cup.
 3. With a straight stitch, sew all the pieces together carefully, easing curves where necessary.
-4. Burrito time! Open the cup with the lining and main upper cup pieces on opposite sides, and the lower cup in the middle. Roll the lower cup to get it out of the way, and stitch the straight edge of the two upper cup pieces, right sides together.
+4. Burrito time! <br>
+   Open the upper cup with the lining and main upper cup pieces on opposite sides, and the lower cup in the middle. Roll the lower cup to get it out of the way, and stitch the long straight edge of the two upper cup pieces, right sides together. You should end up with a weird sausage kind of thing.<br>
+   <em><strong>Note:</strong> don't stitch along the short angled edge, or you'll need to unpick that to apply the underarm elastic later!</em>
 5. Pull the cup out so all the right sides are facing out and the seams are tucked away inside.
 6. Press and top stitch. Repeat for the other cup.
 
+<img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1613996131/maya-bra-cup-enclosed-seams_xjtjh1.jpg" alt="" width="500" />
+<small><em>The burrito in step 4 is where things get weird, but when you turn the cup out, all the seams are magically enclosed on both sides...</em>✨</small>
+
 ## Step 4: Sew the band
 
+### Attach the back band to the cradle
+
+1. Lay the cradle and band pieces for one side together in this order: main cradle (facing up), band (facing down and towards the center), lining (facing up). You should have a sandwich of main/band/lining.<br>
+   <em>Note: The little pointy end at the top is normal, it will line up with the cradle when opened up.</em>
+2. With a straight stitch, sew the pieces together carefully.
+3. Open the band so that the main fabric is on the outside, and the lining on the inside. The seams should all be cleanly tucked away inside.
+4. Press and top stitch. Repeat for the other side.
+
+<img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1613991183/maya-bra-band-cradle_lc691v.jpg" alt="" width="500" />
+<small><em>Pretty enclosed band seams!</em> ✨</small>
+
+### Finish the bridge
+
 1. Pin the cradle pieces together at the bridge, right sides together.
-   With a straight stitch: sew the cradle pieces together at the bridge. Press the seam allowance to the inside and under stitch it.
-2. Baste the other sides about 4mm from the fabric edges, to keep the two layers together.
-3. With a straight stitch: sew the band pieces to the cradle. Press seams towards the cradle, top stitch, and trim seam allowances carefully.
+2. With a straight stitch: sew the bridge along the top.
+3. Open the cradle so that the main fabric is on the outside, and the lining on the inside. Press the bridge seam allowance towards the lining and under stitch it.
+4. Press the bridge seam flat (the under stitching shouldn't be visible from the outside). Baste the other open edges about 4mm from the fabric edges, to keep the two layers together.
+
+<img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1613985953/17B24B26-1A2A-46F9-AFA5-30B7088A1AD4_n6uki0.jpg" alt="" width="500"/>
+<small><em>Basting the open edges is optional, but makes it easier to attach cups and elastics later.</em></small>
 
 ## Step 5: Attach the cups to the band
 

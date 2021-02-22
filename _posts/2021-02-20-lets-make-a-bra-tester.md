@@ -83,7 +83,7 @@ We'll enclose all the seams to make everything as pretty on the inside as it is 
 3. Open the cup so that the main fabric is on the outside, and the lining on the inside. The seams should all be cleanly tucked away underneath.
 4. Press on very low heat, and top stitch. Repeat for the other cup.
 
-<img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1613993581/maya-bra-lower-cup-enclosed-seams_1_xdbgsn.jpg" alt="" width="500" />
+<img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1613993581/maya-bra-lower-cup-enclosed-seams_1_xdbgsn.jpg" alt="" />
 <small><em>The above steps might seem unintuitive, but they result in no exposed seams on the inside or outside!</em></small>
 
 ### Attach the upper cup to the lower cup
@@ -99,7 +99,7 @@ We'll enclose all the seams to make everything as pretty on the inside as it is 
 5. Pull the cup out so all the right sides are facing out and the seams are tucked away inside.
 6. Press and top stitch. Repeat for the other cup.
 
-<img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1613996131/maya-bra-cup-enclosed-seams_xjtjh1.jpg" alt="" width="500" />
+<img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1613996131/maya-bra-cup-enclosed-seams_xjtjh1.jpg" alt="" />
 <small><em>The burrito in step 4 is where things get weird, but when you turn the cup out, all the seams are magically enclosed on both sides...</em>✨</small>
 
 ## Step 4: Sew the band

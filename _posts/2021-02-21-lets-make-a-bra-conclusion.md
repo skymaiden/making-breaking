@@ -29,7 +29,7 @@ Below are the bras I made using this pattern, with small style modifications eac
 
 ## More resources
 
-If you learn better by watching, Beverly Johnson’s online bra making classes are amazing: [Construction and fit](https://www.craftsy.com/class/sewing-bras-construction-fit/), [Designer techniques](https://www.craftsy.com/class/sewing-bras-designer-techniques/), and [Foam, lace and beyond](https://www.craftsy.com/class/sewing-bras-foam-lace-beyond/). These are basically where I learned how to actually construct a bra and make fit and style modifications.
+If you learn better by watching, Beverly Johnson’s online bra making classes are amazing: [Construction and fit](https://www.craftsy.com/class/sewing-bras-construction-fit/), [Designer techniques](https://www.craftsy.com/class/sewing-bras-designer-techniques/), and [Foam, lace and beyond](https://www.craftsy.com/class/sewing-bras-foam-lace-beyond/). I loved and highly recommend them, and they're are basically where I learned how to actually construct a bra and make fit and style modifications.
 
 For a written reference I also bought the very affordable [Bare Essentials: Bras](https://porcelynne.com/books-classes/bare-essentials-bras-third-edition) ebook by Jennifer Lynne Matthews-Fairbanks, which also contains a very detailed section on drafting bra patterns to measure! <br>
 

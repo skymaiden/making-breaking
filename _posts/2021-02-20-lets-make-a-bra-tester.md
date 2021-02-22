@@ -5,16 +5,26 @@ category: Sewing
 tags: lingerie
 ---
 
-For our tester/fitting bra we need to use real bra materials and proper techniques. This will be a lined bra without foam, for precise fit evaulation and pattern adjustments.
+For our tester/fitting bra we need to use real bra materials and proper techniques. This will be a lined bra without foam, for precise fit evaulation and pattern adjustments.<br>
 
-Let's get into the nitty gritty!
+Let's get into the nitty gritty:
 
 1. [Prepare the pattern](#step-1-prepare-the-pattern)
 2. [Cut the fabric](#step-2-cut-the-fabric)
 3. [Sew the cups](#step-3-sew-the-cups)
+   - [Lower cup](#prepare-the-lower-cup)
+   - [Upper cup](#attach-the-upper-cup-to-the-lower-cup)
 4. [Sew the band](#step-4-sew-the-band)
-5. [Attach the cups to the band](#step-5-attach-the-cups-to-the-band)
+   - [Back band and cradle](#attach-the-back-band-to-the-cradle)
+   - [Bridge](#finish-the-bridge)
+5. [Attach cups and band](#step-5-attach-the-cups-to-the-band)
 6. [Apply elastics and hardware](#step-6-apply-elastics-and-hardware)
+   - [Baste channeling](#attach-the-channeling)
+   - [Straps](#prepare-the-straps)
+   - [Bottom elastic](#apply-lower-band-elastic)
+   - [Top elastic](#apply-upper-band--underarm-elastic)
+   - [Top stitch channeling](#finish-the-channeling)
+   - [Finishing straps and closure](#finish-the-straps-attach-the-hook--eye-closure)
 
 <em><strong>Note:</strong> ignore the choppy fabric edges in the photos below, my fabric shears got jammed so I cut everything out with my paper scissors...</em> 😆
 
@@ -84,25 +94,28 @@ We'll enclose all the seams to make everything as pretty on the inside as it is 
 4. Press on very low heat, and top stitch. Repeat for the other cup.
 
 <img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1613993581/maya-bra-lower-cup-enclosed-seams_1_xdbgsn.jpg" alt="" />
-<small><em>The above steps might seem unintuitive, but they result in no exposed seams on the inside or outside!</em></small>
+<small><em>The sandwich order might seem pedantic, but it means no exposed seams on the inside or outside!</em></small>
 
 ### Attach the upper cup to the lower cup
 
-1. Right sides together, lay the main upper cup piece along the top of the lower cup.
-   The lower cup triangles should be pointing upwards, the angled edge of the upper cup on the lower side piece, and the longer edge on the lower front piece.
-   Pin with the upper cup notch aligned to the lower cup seam line.
-2. Turn the pieces over, and pin the lining upper cup piece to the top of the other side of the lower cup.
-3. With a straight stitch, sew all the pieces together carefully, easing curves where necessary.
-4. Burrito time! <br>
-   Open the upper cup with the lining and main upper cup pieces on opposite sides, and the lower cup in the middle. Roll the lower cup to get it out of the way, and stitch the long straight edge of the two upper cup pieces, right sides together. You should end up with a weird sausage kind of thing.<br>
-   <em><strong>Note:</strong> don't stitch along the short angled edge, or you'll need to unpick that to apply the underarm elastic later!</em>
-5. Pull the cup out so all the right sides are facing out and the seams are tucked away inside.
+1. Right sides together, pin the main upper cup piece to the top of the lower cup. Align the notch to the lower cup seam line.
+2. Turn the pieces over, and pin the lining upper cup piece to the top of the other side of the lower cup. You should have a sandwich of main/main/lining/lining.
+3. With a straight stitch, sew the pieces together carefully, easing curves where necessary.
+   <img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1614013664/ABA3A1D7-0ACD-4D8B-96C6-BF3F0D931A25_c1accp.jpg" alt="" width="500" />
+4. Burrito time! This is where it gets weird:<br>
+   - Roll the lower cup to get it out of the way, and open up the upper cup pieces (see fig. 1 below).<br>
+   - Pin the upper cup main and lining edges together, _over the rolled-up lower cup_ (see fig. 2).
+   - _Stitch the long straight edge_ of the two upper cup pieces, right sides together. You should end up with a strange sausage kind of thing (see fig. 3).<br>
+     <em><strong>Note:</strong> don't stitch along the short angled edge like I did, or you'll need to unpick that to apply the underarm elastic later!</em><br>
+5. Pull the cup out through the open end, so all the right sides are facing out and the seams are tucked away inside.
 6. Press and top stitch. Repeat for the other cup.
 
 <img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1613996131/maya-bra-cup-enclosed-seams_xjtjh1.jpg" alt="" />
-<small><em>The burrito in step 4 is where things get weird, but when you turn the cup out, all the seams are magically enclosed on both sides...</em>✨</small>
+<small><em>This is unintuitive, but when you turn the cup out, all the seams are magically enclosed on both sides!</em>✨</small>
 
 ## Step 4: Sew the band
+
+We’ll sew the band with enclosed seams too. A tiny bit of trickery is involved, but much less than the upper cup burrito weirdness above.
 
 ### Attach the back band to the cradle
 
@@ -113,7 +126,7 @@ We'll enclose all the seams to make everything as pretty on the inside as it is 
 4. Press and top stitch. Repeat for the other side.
 
 <img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1613991183/maya-bra-band-cradle_lc691v.jpg" alt="" width="500" />
-<small><em>Pretty enclosed band seams!</em> ✨</small>
+<small><em>The band is attached to the cradle with completely enclosed seams.</em></small>
 
 ### Finish the bridge
 
@@ -128,6 +141,7 @@ We'll enclose all the seams to make everything as pretty on the inside as it is 
 ## Step 5: Attach the cups to the band
 
 1. Match the cradle notches to the cup seam lines, easing in the curves where necessary.
+   <img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1614019390/6636F593-3F07-4B56-8237-8C6FEC2BD7AF_anenl6.jpg" alt="" width="500" />
 2. With a straight stitch: sew the cups to the cradle, with band on top and cup underneath.
 
 <em>It's starting to look like a bra!</em>
@@ -136,8 +150,9 @@ We'll enclose all the seams to make everything as pretty on the inside as it is 
 
 ### Attach the channeling
 
-1. Align the channeling to the stitch line on the inside of the cup seam allowance, with the plushy side facing towards the inside of the cup.<br>
-   With a straight stitch, sew close to the inner edge of the channeling, leaving 1” unsewn on underarm ends. On the bridge ends, trim and bar tack to close.
+1. Align the channeling to the stitch line on the _inside of the cup seam allowance_, with the plushy side facing towards the inside of the cup.
+2. With a straight stitch, sew the inner edge of the channeling _to the seam allowance_ – stopping at the lower/upper cup seam line at the underarm ends. The stitching is only on the seam allowance and shouldn't show from the outside.
+3. Trim the channeling, and bar tack it at the bridge end to close.
 
 ### Prepare the straps
 

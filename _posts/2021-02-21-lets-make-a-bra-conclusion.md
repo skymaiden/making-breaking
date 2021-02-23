@@ -36,6 +36,6 @@ For a written reference I also bought the very affordable [Bare Essentials: Bras
 For some inspiration, [Emerald Erin](https://www.instagram.com/emeralderinsews/) posts a lot of amazing things on her Instagram account.<br>
 And finally the [Liz sews Youtube channel](https://www.youtube.com/c/LizSews/) has some really nice sew-along videos for various bra patterns (including a foam version of the Maya bra).
 
-<em>I hope this short series was helpful, get in touch on Instagram if you have any feedback or corrections :)</em>
+<em>I hope this short series was helpful, get in touch on [Instagram](https://instagram.com/duckgoesoink) if you have any feedback or corrections :)</em>
 
 {% include nav-mayabra.html %}

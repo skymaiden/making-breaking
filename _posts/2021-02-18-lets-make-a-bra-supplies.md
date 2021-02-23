@@ -14,6 +14,8 @@ You can download the PDF pattern directly from the [AFI Atelier website](https:/
 <img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1613918351/maya-bra-pattern-pieces_jyrh1w.jpg" alt="Screenshot of the Maya bra sewing pattern" width="500">
 <small><em>1. upper cup; 2. lower side cup; 3. lower front cup; 4. cradle; 5. back band</em></small>
 
+<em><strong>Tip:</strong> I found it helpful to mark all the cup pattern pieces with extra labels to help me orient them properly (wireline, center seam, upper seam, underarm edge, neckline, front piece, side piece, etc.)</em>
+
 This pattern has 8mm seam allowances, and provides two versions of the cradle and band pieces (H and B), to fit either a 2x3 or 3x3 hook & eye closure. There are also pattern pieces for foam cups if you want to make a foam bra later on.
 
 DOGS stands for Direction Of Greatest Stretch, a term coined by Beverly Johnson. It usually goes opposite to the fabric grain, but we should always check to make sure. Mesh fabrics should be cut with the DOGS going along the direction of the holes, so they get longer and not rounder.

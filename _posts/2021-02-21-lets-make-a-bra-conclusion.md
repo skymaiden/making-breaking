@@ -7,7 +7,7 @@ tags: lingerie
 
 ## Make fitting adjustments
 
-Now you can finally try on the bra and evaluate the fit like you did with your toile:
+Now you can finally try on the bra and evaluate the fit [like you did with your toile]({% post_url 2021-02-19-lets-make-a-bra-toile %}):
 
 - Are the straps the right length and adjusted properly? Are they falling too far out, or sitting too far in?
 - Is the band sitting straight all the way around? Is it too tight or too loose in some places?
@@ -22,10 +22,10 @@ Once you’ve made your pattern adjustments, you’ll need to make another bra t
 
 It’s worth persevering to get a good fit, because once you have achieved that then you can make as many as you like – making stylistic changes and combining different fabrics, elastics, necklines, seam lines, straps, details, etc. for a collection of well-fitting bras that all look different! You can try sewing with lace, sheer lining, foam, tulle, or whatever other combinations inspire you.
 
-Below are the bras I made using this pattern, with small style modifications each time:
+Below are the bras I made using this pattern, with small style and fit modifications each time:
 
-![](https://res.cloudinary.com/duckgoesoink/image/upload/v1613919578/maya-bras_mt4jtl.jpg)
-<small><em>1. Unlined Duoplex satin bra; 2. Lace bra with sheer cup lining; 3. Cut & sew foam with sheer cup lining; 4. Tulle bra with fold-over elastic; 5. Tulle/satin bra with fold-over elastic</em></small>
+![](https://res.cloudinary.com/duckgoesoink/image/upload/v1614155988/red-maya-bras_tppwqu.jpg)
+<small><em>1. Unlined Duoplex satin bra; 2. Lace bra with sheer cup lining; 3. Cut & sew foam with sheer cup lining; 4. Tulle bra with fold-over elastic; 5. Tulle/satin bra with fold-over elastic and crossed straps; 6. Duoplex satin bra with fabric straps</em></small>
 
 ## More resources
 

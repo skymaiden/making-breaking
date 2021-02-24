@@ -197,15 +197,17 @@ We’ll sew the band with enclosed seams too.
 
 ### Apply upper band / underarm elastic
 
-1. Allow 1" excess at the top to hold strap rings.
-2. Sew the top elastic in the same way as the bottom elastic, stretching a tiny bit along the cradle and/or upper cup to avoid gaping.
+1. Allow 1" excess at the top to hold strap rings, and keep the cup seam allowance facing outwards towards to back band.
+2. Sew the top elastic in two passes like the bottom elastic, stretching a tiny bit along the cradle or upper cup to avoid gaping in that area.
 
 ### Finish the channeling
 
 1. With the channeling facing away from the cups (towards the cradle), top stitch from the outside, stretching the cradle and cups apart to get close to the seam line. Make sure to align the loose underarm ends to the seam line!<br>
 2. Do a second line of stitching from the inside of the bra, close to the edge of the channeling.
-3. Trim the channeling on the underarm side so it's completely concealed.
+3. Trim the channeling on the underarm side so it doesn't show from the outside.
 4. Insert the underwires inside the channeling – make sure they go into the tube, not between the channeling and the fabric.
+
+![](https://res.cloudinary.com/duckgoesoink/image/upload/v1614154364/maya-bra-topstitch-channeling_1_nnn3ud.jpg)
 
 ### Finish the straps, attach the hook & eye closure
 
@@ -215,5 +217,14 @@ We’ll sew the band with enclosed seams too.
    - Sew the eyes facing out, on the left band.
    - Sew the hooks facing in, on the right band.
    - Make sure to sew with hooks/eyes facing up, so they don’t get stuck in feed dogs!
+
+<img src="https://res.cloudinary.com/duckgoesoink/image/upload/v1614154488/D08BBCF8-09ED-465C-998E-6E49AA10B966_foc8cx.jpg" alt="" width="500" />
+<small><em>Once everything is finished with enclosed seams, the ragged cutting edges caused by  my paper scissors are nowhere to be seen...</em> 😆</small>
+
+<br>
+That concludes the construction phase, you now have a finished bra! 👏
+
+![](https://res.cloudinary.com/duckgoesoink/image/upload/v1613857831/maya-bra-satin_midvew.jpg)
+<small><em>Eagle-eyed readers will notice this bra is ever so slightly different – it was my second attempt and the first well-fitting bra I ever owned!</em></small>
 
 {% include nav-mayabra.html %}
